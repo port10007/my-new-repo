@@ -1,0 +1,14 @@
+# ===== Windows =====
+Thumbs.db
+Desktop.ini
+
+# ===== VS Code =====
+.vscode/
+
+# ===== Logs =====
+*.log
+
+# ===== OS / Temp =====
+*.tmp
+*.swp
+*~
